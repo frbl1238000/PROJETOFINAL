@@ -4,11 +4,10 @@ TypeScript
 Express
 Prisma ORM
 Zod (validação de dados)
-Banco de dados (provavelmente PostgreSQL ou SQLite)
+Banco de dados ( PostgreSQL)
+
+
 ⚙️ Funcionalidades:
-
-
-
 📊 Leads
 ✅ Criar leads
 ✅ Listar leads com paginação
