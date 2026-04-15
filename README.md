@@ -1,11 +1,14 @@
-🛠️ Tecnologias utilizadas
+🛠️ Tecnologias utilizadas:
 Node.js
 TypeScript
 Express
 Prisma ORM
 Zod (validação de dados)
 Banco de dados (provavelmente PostgreSQL ou SQLite)
-⚙️ Funcionalidades
+⚙️ Funcionalidades:
+
+
+
 📊 Leads
 ✅ Criar leads
 ✅ Listar leads com paginação
@@ -16,8 +19,11 @@ Banco de dados (provavelmente PostgreSQL ou SQLite)
 ✅ Criar campanhas
 ✅ Listar campanhas
 ✅ Relacionar leads com campanhas
+
+
+
 📂 Estrutura do projeto
-📦 src
+📦 src:
  ┣ 📂 controllers
  ┃ ┣ 📜 LeadsControllers.ts
  ┃ ┗ 📜 CampaignControllers.ts
@@ -25,11 +31,14 @@ Banco de dados (provavelmente PostgreSQL ou SQLite)
  ┣ 📂 schema
  ┣ 📂 database
  ┗ 📜 server.ts
+
+
+ 
 🚀 Como executar o projeto
 🔧 Pré-requisitos
 Node.js instalado
-Gerenciador de pacotes (npm ou yarn)
-Banco de dados configurado
+Gerenciador de pacotes (npm)
+Banco de dados configurado: postgres.
 📥 Clonar o repositório
 git clone https://github.com/frbl1238000/PROJETOFINAL.git
 cd PROJETOFINAL
