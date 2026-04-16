@@ -41,3 +41,19 @@ Banco de dados configurado: postgres.
 📥 Clonar o repositório
 git clone https://github.com/frbl1238000/PROJETOFINAL.git
 cd PROJETOFINAL
+
+
+
+👨‍💻 Autor
+Ricardo Barbosa
+📄 Licença
+
+
+
+💡 Observações
+
+Projeto desenvolvido para fins de estudo e prática com:
+
+APIs REST
+Organização em camadas
+Integração com banco de dados usando Prisma..
